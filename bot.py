@@ -42,7 +42,7 @@ def start(update,context):
 def contact(update,context):
     """Send a message when the command /contact is issued."""
     update.message.reply_text("Hey! You can find me on \n[Telegram](https://telegram.me/arminarlert898)", parse_mode=telegram.ParseMode.MARKDOWN)
-    update.message.reply_text("Join channel : @CCTools_News \nIf you have any questions then dm me : ) @arminarlert898
+    update.message.reply_text("Join channel : @CCTools_News \nIf you have any questions then dm me : @arminarlert898")
 
 @run_async
 @send_typing_action
