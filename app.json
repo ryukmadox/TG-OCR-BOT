@@ -1,7 +1,7 @@
 {
     "name": "OCR Bot",
     "description": "Telegram bot for to convert image to text",
-    "author": "Amit",
+    "author": "Armin",
     "keywords": [
         "python",
         "ocr",
